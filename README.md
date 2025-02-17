@@ -6,7 +6,7 @@
 </center>
 
 &nbsp;&nbsp;- 👋 Hi, I’m @ahmedbarakat207 (formerly @ahmedbarakat2007)<br><br>
-&nbsp;&nbsp;- Andstation 3 Dev, Vectras VM Dev and NexaVM Dev (Trust me you should give them a Try ;))<br>
+&nbsp;&nbsp;- Andstation 3 Dev, Vectras VM Dev and NexaVM Dev<br>
 &nbsp;&nbsp;- C++, Pyhton, C, PHP, JS, HTML, CSS and C#<br>
 &nbsp;&nbsp;- Love Cars, Tech and Hacking any thing I get my hands on<br><br>
 &nbsp;&nbsp;- 📫 Telegram : https://t.me/ahmedbarakat2007<br>
