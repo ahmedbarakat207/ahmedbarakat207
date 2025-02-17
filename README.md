@@ -1,6 +1,7 @@
+<center>
 
-<cen![mylogo](https://github.com/user-attachments/assets/7eeb9bb6-e414-4492-99e9-d0285566c457)
-ter>
+![mylogo](https://github.com/user-attachments/assets/71db8451-ed9d-499b-aae6-e059a3d53677)
+
 
 </center>
 
