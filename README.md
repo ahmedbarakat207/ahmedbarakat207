@@ -1,6 +1,6 @@
 <center>
 
-![mylogo](https://github.com/user-attachments/assets/71db8451-ed9d-499b-aae6-e059a3d53677)
+<img align='right' src="https://github.com/user-attachments/assets/71db8451-ed9d-499b-aae6-e059a3d53677" width="230">
 
 
 </center>
