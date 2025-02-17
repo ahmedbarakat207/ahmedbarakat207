@@ -1,6 +1,6 @@
 <center>
 
-<img align='left' src="https://github.com/user-attachments/assets/71db8451-ed9d-499b-aae6-e059a3d53677" width="230" style="border-radius:50px;">
+<img align='left' src="https://github.com/user-attachments/assets/71db8451-ed9d-499b-aae6-e059a3d53677" width="230" style="border-radius:50px; margin-right:20px;">
 
 
 </center>
