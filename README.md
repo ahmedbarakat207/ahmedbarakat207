@@ -1,6 +1,6 @@
 <center>
 
-<img align='left' src="https://github.com/user-attachments/assets/71db8451-ed9d-499b-aae6-e059a3d53677" width="220" margin="20px">
+<img align='left' src="https://avatars.githubusercontent.com/u/147771950?v=4" width="250" margin="20px">
 
 
 </center>
@@ -14,8 +14,5 @@
 &nbsp;&nbsp; $\textsf{\color{aqua}{Packages:}}$ 78 <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Shell:}}$ Tonuge-4.1 <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Brain Usage:}}$ 99% <br>
-&nbsp;&nbsp; $\textsf{\color{aqua}{CPU:}}$ AMD A8-7600b <br>
-&nbsp;&nbsp; $\textsf{\color{aqua}{Memory:}}$ 7965Mib <br>
-&nbsp;&nbsp; $\textsf{\color{aqua}{GPU:}}$ AMD Radeon R7 <br>
 &nbsp;&nbsp;  $\textsf{\color{black}{███}}$ $\textsf{\color{red}{███}}$ $\textsf{\color{green}{███}}$ $\textsf{\color{yellow}{███}}$ $\textsf{\color{blue}{███}}$ $\textsf{\color{magenta}{███}}$ $\textsf{\color{white}{███}}$
 
