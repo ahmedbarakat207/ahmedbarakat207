@@ -5,6 +5,9 @@
 
 </center>
 
+&nbsp;&nbsp; idiot@ahmedbarakat2007
+&nbsp;&nbsp; ----------------------
+&nbsp;&nbsp;
 &nbsp;&nbsp; <code style="color : cyan">OS:</code> life-OS <br>
 &nbsp;&nbsp; <code style="color : cyan">Model:</code> ahmedbarakat2007 <br>
 &nbsp;&nbsp; <code style="color : cyan">Kernel:</code> Brain-0.0.1 <br>
