@@ -5,7 +5,7 @@
 
 </center>
 
-&nbsp;&nbsp;- <code style="color : aqua">OS:</code> ahmedbarakat2007
+&nbsp;&nbsp;- <code style="color : cyan">OS:</code> ahmedbarakat2007
 &nbsp;&nbsp;- 
 &nbsp;&nbsp;- 
 &nbsp;&nbsp;- 
