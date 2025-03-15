@@ -5,17 +5,17 @@
 
 </center>
 
-&nbsp;&nbsp; idiot@ahmedbarakat2007 <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{idiot@ahmedbarakat2007}}$ <br>
 &nbsp;&nbsp; ------------------------------ <br>
-&nbsp;&nbsp; <code style="color : cyan">OS:</code> life-OS <br>
-&nbsp;&nbsp; <code style="color : cyan">Model:</code> ahmedbarakat2007 <br>
-&nbsp;&nbsp; <code style="color : cyan">Kernel:</code> Brain-0.0.1 <br>
-&nbsp;&nbsp; <code style="color : cyan">Uptime:</code> 17 Years, 11 Months <br>
-&nbsp;&nbsp; <code style="color : cyan">Packages:</code> 78 <br>
-&nbsp;&nbsp; <code style="color : cyan">Shell:</code> Tonuge-4.1 <br>
-&nbsp;&nbsp; <code style="color : cyan">Brain Usage:</code> 99% <br>
-&nbsp;&nbsp; <code style="color : cyan">CPU:</code> AMD A8-7600b <br>
-&nbsp;&nbsp; <code style="color : cyan">Memory:</code> 7965Mib <br>
-&nbsp;&nbsp; <code style="color : cyan">GPU:</code> AMD Radeon R7 <br>
-&nbsp;&nbsp; <tspan fill="red">████</tspan>
+&nbsp;&nbsp; $\textsf{\color{aqua}{OS:}}$ life-OS <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Model:}}$ ahmedbarakat2007 <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Kernel:}}$ Brain-0.0.1 <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Uptime:}}$ 17 Years, 11 Months <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Packages:}}$ 78 <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Shell:}}$ Tonuge-4.1 <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Brain Usage:}}$ 99% <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{CPU:}}$ AMD A8-7600b <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Memory:}}$ 7965Mib <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{GPU:}}$ AMD Radeon R7 <br>
+&nbsp;&nbsp;  $\textsf{\color{black}{███}}$ $\textsf{\color{red}{███}}$ $\textsf{\color{green}{███}}$ $\textsf{\color{yellow}{███}}$ $\textsf{\color{blue}{███}}$ $\textsf{\color{magenta}{███}}$ $\textsf{\color{white}{███}}$
 
