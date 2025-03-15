@@ -17,5 +17,5 @@
 &nbsp;&nbsp; <code style="color : cyan">CPU:</code> AMD A8-7600b <br>
 &nbsp;&nbsp; <code style="color : cyan">Memory:</code> 7965Mib <br>
 &nbsp;&nbsp; <code style="color : cyan">GPU:</code> AMD Radeon R7 <br>
-&nbsp;&nbsp; <text style="color:red">████</text>
+&nbsp;&nbsp; <tspan fill="red">████</tspan>
 
