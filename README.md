@@ -10,7 +10,7 @@
 &nbsp;&nbsp; $\textsf{\color{aqua}{OS:}}$ life-OS <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Model:}}$ ahmedbarakat2007 <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Kernel:}}$ Brain-0.0.1 <br>
-&nbsp;&nbsp; $\textsf{\color{aqua}{Uptime:}}$ 17 Years, 11 Months <br>
+&nbsp;&nbsp; $\textsf{\color{aqua}{Uptime:}}$ 18 Years <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Packages:}}$ 78 <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Shell:}}$ Tonuge-4.1 <br>
 &nbsp;&nbsp; $\textsf{\color{aqua}{Brain Usage:}}$ 99% <br>
